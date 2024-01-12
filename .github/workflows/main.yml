@@ -1,16 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Orbb!</title>
+	
 </head>
 <body>
-  <!-- Header and footer text on page -->
 	<h1>Hello</h1>
 	<p>this is page</p>
-  
-  <!-- Running the Java canvas -->
-  <canvas id = "javaCanvas" width = "400" height = "300"></canvas>
 </body
 </html>
